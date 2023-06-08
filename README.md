@@ -17,4 +17,22 @@ User-friendly Interface: The script provides a user-friendly command-line interf
 #Use Case
 Use Case for this tool arose when I was going through my scrrenshot folder, and found all the images had taskbar and window options and msot unnecessary things in the screenshot.
 There were almost 200+ images in the Folder which needed proper crops and resize viz dimensions.
-![alt text](image.jpg)
+![Directory](use case Images/use case directory.png)
+
+#Feature:
+
+This tool scans the Directory:
+![Directory](use case Images/use case directory.png)
+
+It picks up the uncropped image:
+![Raw Image](use case Images/use case uncropped image sample.png)
+
+and crops the image wrt dimension configured
+![New Directory](use case Images/use case cropped image sample.png)
+
+and creates cropped images in a new directory
+![New Directory](use case Images/use case output directory.png)
+
+
+
+
