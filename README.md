@@ -17,7 +17,7 @@ User-friendly Interface: The script provides a user-friendly command-line interf
 #Use Case
 Use Case for this tool arose when I was going through my scrrenshot folder, and found all the images had taskbar and window options and msot unnecessary things in the screenshot.
 There were almost 200+ images in the Folder which needed proper crops and resize viz dimensions.
-![Directory](use%case%Images/use%case%directory.png)
+![](use%case%Images/use%case%directory.png)
 
 #Feature:
 
